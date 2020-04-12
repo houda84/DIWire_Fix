@@ -1,0 +1,7 @@
+{
+  "curFile": "\\\\Mac\\Home\\Desktop\\MID CD semester 1\\IT\\DIWire-1_1_5\\data\\userData\\tmp\\new line.svg",
+  "fw": 1,
+  "bh": 1,
+  "material": 6,
+  "units": 1
+}
